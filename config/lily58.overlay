@@ -1,0 +1,17 @@
+&i2c0 {
+    status = "okay";
+
+    cirque_pinnacle: trackpad@2a {
+        compatible = "cirque,pinnacle";
+        reg = <0x2a>;
+        status = "okay";
+    };
+};&i2c0 {
+    status = "okay";
+
+    cirque_pinnacle: trackpad@2a {
+        compatible = "cirque,pinnacle";
+        reg = <0x2a>;
+        status = "okay";
+    };
+};
