@@ -41,7 +41,7 @@
             //                     |      |      |      |        |  |       |      |       |       |
 
             bindings = <
-&kp ESC           &trans  &trans  &trans  &trans  &trans                    &trans       &trans             &trans        &kp EQUAL  &kp QUESTION   &kp DELETE
+&kp ESC           &trans  &trans  &trans  &trans  &trans                    &kp MINUS    &kp EQUAL          &trans        &kp EQUAL  &kp QUESTION   &kp DELETE
 &kp TAB           &kp Q   &kp W   &trans  &trans  &trans                    &trans       &kp K_APPLICATION  &kp UP_ARROW  &trans     &trans         &trans
 &kp LEFT_SHIFT    &trans  &trans  &trans  &kp F   &trans                    &trans       &kp LEFT           &kp DOWN      &kp RIGHT  &kp PAGE_UP    &kp HOME
 &kp LEFT_CONTROL  &kp Z   &kp X   &kp C   &kp V   &kp B   &trans    &trans  &kp KP_PLUS  &trans             &trans        &trans     &kp PAGE_DOWN  &kp END
